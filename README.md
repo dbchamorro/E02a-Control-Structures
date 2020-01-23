@@ -76,6 +76,7 @@ Commit your changes and push them back to the repository.
    - Run the program.
  - *Extra credit:* open main10.py. Add a comment to each line describing what it is doing (a comment follows a pound sign [#]).
  - *Extra credit:* open main11.py. What is happening on lines 6-11?
+ ## I think it is defining a function that cant be changed but can be called in other functions simplifying the code
   
 Commit your changes and push them back to the repository.
  
